@@ -1,0 +1,1352 @@
+[
+  {
+    "_eval_key": "77360",
+    "model_output": {
+      "sentiment": "NEUTRAL",
+      "primary_emotion": "anger",
+      "confidence": "low",
+      "reason": "The three-star rating and mild complaint that it could be easier suggest slight dissatisfaction, but the tone is too restrained to be clearly negative."
+    }
+  },
+  {
+    "_eval_key": "17240",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "primary_emotion": "joy",
+      "confidence": "medium",
+      "reason": "The word 'Perfect' clearly expresses satisfaction with the purchase, and the title shows a positive intent to surprise a neighbor."
+    }
+  },
+  {
+    "_eval_key": "44420",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "primary_emotion": "anger",
+      "confidence": "high",
+      "reason": "The title 'Waste of money' and body 'Amazon sucks' both express clear dissatisfaction and frustration."
+    }
+  },
+  {
+    "_eval_key": "78124",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "primary_emotion": "anger",
+      "confidence": "high",
+      "reason": "The reviewer feels cheated by a promised discount that never applied, with the title 'Ripped off' clearly expressing anger."
+    }
+  },
+  {
+    "_eval_key": "33943",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "primary_emotion": "joy",
+      "confidence": "high",
+      "reason": "The reviewer expresses clear satisfaction and delight with the included box and its bright color."
+    }
+  },
+  {
+    "_eval_key": "58021",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "primary_emotion": "anger",
+      "confidence": "medium",
+      "reason": "The main complaint is the missing reload bonus for the second time, which overshadows the brief positive note that the card is easy to use."
+    }
+  },
+  {
+    "_eval_key": "131421",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "primary_emotion": "joy",
+      "confidence": "high",
+      "reason": "The title 'Five Stars' and the word 'great' clearly express satisfaction and approval."
+    }
+  },
+  {
+    "_eval_key": "94853",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "primary_emotion": "anger",
+      "confidence": "high",
+      "reason": "The reviewer complains about unexpected fees and a partial refund, calling the charges 'rediculous,' which clearly expresses frustration and anger."
+    }
+  },
+  {
+    "_eval_key": "46157",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "primary_emotion": "disgust",
+      "confidence": "high",
+      "reason": "The reviewer is repulsed and embarrassed by the dirty, bent, discolored condition of the gift card, clearly expressing strong dissatisfaction."
+    }
+  },
+  {
+    "_eval_key": "12665",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "primary_emotion": "anger",
+      "confidence": "medium",
+      "reason": "The review praises ease of use but clearly disapproves of extra fees and calls them unnecessary, making the overall stance negative."
+    }
+  },
+  {
+    "_eval_key": "94216",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "primary_emotion": "joy",
+      "confidence": "medium",
+      "reason": "The title 'Five Stars' and the body's positive comparison to a bank statement indicate satisfaction and approval, with a tone of relief or contentment."
+    }
+  },
+  {
+    "_eval_key": "97753",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "primary_emotion": "sadness",
+      "confidence": "high",
+      "reason": "The reviewer expresses clear disappointment that the metal container arrived severely damaged, ruining the gift presentation."
+    }
+  },
+  {
+    "_eval_key": "52005",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "primary_emotion": "trust",
+      "confidence": "medium",
+      "reason": "The review is understated but affirms the product works well, conveying mild satisfaction and reliability rather than strong emotion."
+    }
+  },
+  {
+    "_eval_key": "8834",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "primary_emotion": "joy",
+      "confidence": "high",
+      "reason": "The reviewer expresses clear satisfaction and approval with the words 'Great' and 'Great gift', indicating a positive sentiment and a joyful tone."
+    }
+  },
+  {
+    "_eval_key": "113973",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "primary_emotion": "anger",
+      "confidence": "medium",
+      "reason": "The review highlights a flaw that caused confusion for the recipient, expressing clear dissatisfaction with the gift card's lack of a personal message feature."
+    }
+  },
+  {
+    "_eval_key": "123078",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "primary_emotion": "anger",
+      "confidence": "medium",
+      "reason": "The body focuses on the negative issue of a much higher currency conversion rate, which outweighs the title's positive 'good experience' and indicates dissatisfaction."
+    }
+  },
+  {
+    "_eval_key": "134935",
+    "model_output": {
+      "sentiment": "NEUTRAL",
+      "primary_emotion": "trust",
+      "confidence": "low",
+      "reason": "The terse 'Ok' and three-star rating convey a middling, unenthusiastic acceptance without strong positive or negative feeling."
+    }
+  },
+  {
+    "_eval_key": "41177",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "primary_emotion": "joy",
+      "confidence": "high",
+      "reason": "The reviewer expresses clear satisfaction and enthusiasm about the product's ease of use and the bonus credit."
+    }
+  },
+  {
+    "_eval_key": "77080",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "primary_emotion": "joy",
+      "confidence": "low",
+      "reason": "The statement 'It worked' indicates the product functioned as expected, conveying satisfaction, though the brevity makes the emotional intensity unclear."
+    }
+  },
+  {
+    "_eval_key": "32587",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "primary_emotion": "joy",
+      "confidence": "high",
+      "reason": "The reviewer expresses satisfaction and delight that their family loved the adorable containers."
+    }
+  },
+  {
+    "_eval_key": "7383",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "primary_emotion": "sadness",
+      "confidence": "high",
+      "reason": "The reviewer is clearly disappointed because the gift tin arrived smashed, ruining the presentation despite the easy purchase."
+    }
+  },
+  {
+    "_eval_key": "113233",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "primary_emotion": "joy",
+      "confidence": "high",
+      "reason": "The reviewer expresses clear delight with 'Such a cute TIN!' and the five-star title reinforces a positive sentiment."
+    }
+  },
+  {
+    "_eval_key": "68236",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "primary_emotion": "anger",
+      "confidence": "high",
+      "reason": "The reviewer is clearly upset and frustrated that the item arrived dented with a bent card, calling it 'terrible'."
+    }
+  },
+  {
+    "_eval_key": "53009",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "primary_emotion": "trust",
+      "confidence": "high",
+      "reason": "The reviewer expresses clear satisfaction with the product's usefulness and ease of use, indicating a positive but matter-of-fact endorsement."
+    }
+  },
+  {
+    "_eval_key": "132433",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "primary_emotion": "anger",
+      "confidence": "high",
+      "reason": "The reviewer expresses strong frustration and outrage over a failed gift card order, calling it the worst experience ever and vowing never again."
+    }
+  },
+  {
+    "_eval_key": "51598",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "primary_emotion": "joy",
+      "confidence": "medium",
+      "reason": "The title 'Good product' and body 'Easy gift' convey clear satisfaction and a positive, pleasant tone."
+    }
+  },
+  {
+    "_eval_key": "123045",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "primary_emotion": "anger",
+      "confidence": "high",
+      "reason": "The reviewer clearly expresses dissatisfaction that the product's US-only validity makes it difficult to use abroad."
+    }
+  },
+  {
+    "_eval_key": "58020",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "primary_emotion": "joy",
+      "confidence": "high",
+      "reason": "The reviewer describes the card as a perfect gift, expressing clear satisfaction and delight."
+    }
+  },
+  {
+    "_eval_key": "51788",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "primary_emotion": "joy",
+      "confidence": "medium",
+      "reason": "The reviewer enthusiastically recommends buying and expresses satisfaction about getting extra cash to spend."
+    }
+  },
+  {
+    "_eval_key": "112372",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "primary_emotion": "joy",
+      "confidence": "high",
+      "reason": "The reviewer clearly expresses satisfaction with the gift card presentation, calling it 'great' and 'easy'."
+    }
+  },
+  {
+    "_eval_key": "355",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "primary_emotion": "anger",
+      "confidence": "medium",
+      "reason": "The reviewer expresses frustration that the item is hard to locate on their card, indicating dissatisfaction."
+    }
+  },
+  {
+    "_eval_key": "91707",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "primary_emotion": "joy",
+      "confidence": "high",
+      "reason": "The reviewer expresses that the gift was a no-brainer and that his wife was very happy, clearly indicating satisfaction and joy."
+    }
+  },
+  {
+    "_eval_key": "145838",
+    "model_output": {
+      "sentiment": "NEUTRAL",
+      "primary_emotion": "anticipation",
+      "confidence": "low",
+      "reason": "The review is a factual, unresolved statement about needing to ask the gift recipient for feedback, with no clear positive or negative sentiment."
+    }
+  },
+  {
+    "_eval_key": "128137",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "primary_emotion": "joy",
+      "confidence": "high",
+      "reason": "The reviewer clearly expresses satisfaction with the gift card, calling it 'very good' and 'easy to use' with many options."
+    }
+  },
+  {
+    "_eval_key": "132840",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "primary_emotion": "anger",
+      "confidence": "medium",
+      "reason": "The reviewer expresses frustration and annoyance about the purchase limit, questioning why they cannot buy more than 20."
+    }
+  },
+  {
+    "_eval_key": "50735",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "primary_emotion": "joy",
+      "confidence": "high",
+      "reason": "The title 'Great Gift' and body 'Exactly as described' express clear satisfaction and delight with the purchase."
+    }
+  },
+  {
+    "_eval_key": "107136",
+    "model_output": {
+      "sentiment": "NEUTRAL",
+      "primary_emotion": "anticipation",
+      "confidence": "medium",
+      "reason": "The body is a matter-of-fact suggestion for a feature, with no clear positive or negative tone, and the title 'Yeet' adds no sentiment."
+    }
+  },
+  {
+    "_eval_key": "49557",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "primary_emotion": "joy",
+      "confidence": "high",
+      "reason": "The review clearly expresses satisfaction with the product's ease of use and performance."
+    }
+  },
+  {
+    "_eval_key": "74664",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "primary_emotion": "disgust",
+      "confidence": "high",
+      "reason": "The reviewer criticizes the card as damaged and cheap-looking, clearly expressing dissatisfaction with its quality."
+    }
+  },
+  {
+    "_eval_key": "83069",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "primary_emotion": "trust",
+      "confidence": "high",
+      "reason": "The reviewer reports the gift was given without any problems, indicating a favorable, trouble-free experience."
+    }
+  },
+  {
+    "_eval_key": "60065",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "primary_emotion": "anger",
+      "confidence": "medium",
+      "reason": "The reviewer focuses on the inconvenient purchasing limits and separate shipping, expressing clear dissatisfaction with the card's downside."
+    }
+  },
+  {
+    "_eval_key": "110653",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "primary_emotion": "sadness",
+      "confidence": "medium",
+      "reason": "The title clearly states a functional failure, and the body's lukewarm 'Ok I guess' conveys disappointment rather than satisfaction."
+    }
+  },
+  {
+    "_eval_key": "62435",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "primary_emotion": "joy",
+      "confidence": "high",
+      "reason": "The reviewer clearly praises the Amazon gift card as universally useful and sees no downside, expressing satisfaction and enthusiasm."
+    }
+  },
+  {
+    "_eval_key": "151937",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "primary_emotion": "trust",
+      "confidence": "high",
+      "reason": "The reviewer explicitly states thorough satisfaction and calls the experience convenient, indicating a positive stance and trust in Amazon's products and services."
+    }
+  },
+  {
+    "_eval_key": "137040",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "primary_emotion": "trust",
+      "confidence": "high",
+      "reason": "The reviewer clearly states the gift card is good, expressing a positive and trusting evaluation."
+    }
+  },
+  {
+    "_eval_key": "45756",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "primary_emotion": "joy",
+      "confidence": "high",
+      "reason": "The reviewer expresses satisfaction that the product was convenient for a gift, clearly favorable."
+    }
+  },
+  {
+    "_eval_key": "26343",
+    "model_output": {
+      "sentiment": "NEUTRAL",
+      "primary_emotion": "trust",
+      "confidence": "medium",
+      "reason": "The reviewer balances a dislike of locking up funds with a pragmatic acknowledgment of the credit offer and the product's usefulness for budget control, resulting in a neutral, cautiously trusting tone."
+    }
+  },
+  {
+    "_eval_key": "9820",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "primary_emotion": "anger",
+      "confidence": "high",
+      "reason": "The reviewer explicitly describes the card as extremely inconvenient and frustrating due to trouble at Walmart and inability to get cash."
+    }
+  },
+  {
+    "_eval_key": "106381",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "primary_emotion": "joy",
+      "confidence": "high",
+      "reason": "The reviewer clearly expresses satisfaction and enjoyment in giving Amazon gift cards, highlighting ease and free shipping."
+    }
+  },
+  {
+    "_eval_key": "119407",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "primary_emotion": "joy",
+      "confidence": "high",
+      "reason": "The reviewer expresses delight and relief that shopping was easy and excellent this season."
+    }
+  },
+  {
+    "_eval_key": "12158",
+    "model_output": {
+      "sentiment": "NEUTRAL",
+      "primary_emotion": "trust",
+      "confidence": "high",
+      "reason": "The reviewer states a gift card is a safe, reliable choice without expressing strong positive or negative feelings."
+    }
+  },
+  {
+    "_eval_key": "54935",
+    "model_output": {
+      "sentiment": "NEUTRAL",
+      "primary_emotion": "trust",
+      "confidence": "low",
+      "reason": "The review consists only of 'No comment', providing no opinion or emotional content, so it is best classified as neutral with a default low-confidence emotion."
+    }
+  },
+  {
+    "_eval_key": "139291",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "primary_emotion": "anger",
+      "confidence": "medium",
+      "reason": "The repeated 'fake' clearly expresses dissatisfaction and a sense of being deceived, which is best captured by anger."
+    }
+  },
+  {
+    "_eval_key": "52007",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "primary_emotion": "anger",
+      "confidence": "medium",
+      "reason": "The reviewer is frustrated about missing cash back twice due to an overlooked click, making the overall tone unfavorable."
+    }
+  },
+  {
+    "_eval_key": "113917",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "primary_emotion": "anger",
+      "confidence": "medium",
+      "reason": "The body reports the item was not accepted at some locations, indicating frustration despite the neutral three-star title."
+    }
+  },
+  {
+    "_eval_key": "102385",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "primary_emotion": "anger",
+      "confidence": "high",
+      "reason": "The reviewer explicitly says they are not happy and uses an exasperated 'WTH' about the wrong packaging, showing clear frustration."
+    }
+  },
+  {
+    "_eval_key": "37145",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "primary_emotion": "anger",
+      "confidence": "high",
+      "reason": "The reviewer is clearly frustrated and upset because the tracking says delivered but the item never arrived."
+    }
+  },
+  {
+    "_eval_key": "46192",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "primary_emotion": "sadness",
+      "confidence": "medium",
+      "reason": "The reviewer is disappointed that Shoneys locations are hard to find and they must drive 32 miles, with 'Sadly' signaling a negative overall tone."
+    }
+  },
+  {
+    "_eval_key": "52262",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "primary_emotion": "joy",
+      "confidence": "high",
+      "reason": "The reviewer praises the product as easy to use and great value for money, clearly expressing satisfaction."
+    }
+  },
+  {
+    "_eval_key": "126877",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "primary_emotion": "sadness",
+      "confidence": "high",
+      "reason": "The reviewer explicitly expresses disappointment and describes the item as a crumpled paper, clearly indicating dissatisfaction."
+    }
+  },
+  {
+    "_eval_key": "20040",
+    "model_output": {
+      "sentiment": "NEUTRAL",
+      "primary_emotion": "trust",
+      "confidence": "high",
+      "reason": "The review is a matter-of-fact statement that the product functions, with no praise or criticism, indicating a neutral tone and a basic sense of reliability."
+    }
+  },
+  {
+    "_eval_key": "31114",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "primary_emotion": "joy",
+      "confidence": "medium",
+      "reason": "The reviewer expresses mild satisfaction with the extra credit and notes their daughter liked the tin, giving an overall favorable tone."
+    }
+  },
+  {
+    "_eval_key": "102545",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "primary_emotion": "anger",
+      "confidence": "high",
+      "reason": "The reviewer is clearly frustrated and angry after Amazon lost the gift card funds and provided no resolution, ending with 'NEVER AGAIN.'"
+    }
+  },
+  {
+    "_eval_key": "25909",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "primary_emotion": "sadness",
+      "confidence": "medium",
+      "reason": "The review reports a dented tin with a frown emoticon, clearly expressing disappointment and dissatisfaction."
+    }
+  },
+  {
+    "_eval_key": "37229",
+    "model_output": {
+      "sentiment": "NEUTRAL",
+      "primary_emotion": "trust",
+      "confidence": "medium",
+      "reason": "The review is a brief, factual statement about buying a gift card as an easy gift, with no strong positive or negative feeling expressed."
+    }
+  },
+  {
+    "_eval_key": "19151",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "primary_emotion": "anger",
+      "confidence": "high",
+      "reason": "The reviewer expresses strong frustration and vows never to buy again after a defective product ruined the PIN and required a refund."
+    }
+  },
+  {
+    "_eval_key": "123654",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "primary_emotion": "anger",
+      "confidence": "medium",
+      "reason": "The reviewer describes a frustrating reload process that took three tries, with no positive remarks, indicating mild dissatisfaction."
+    }
+  },
+  {
+    "_eval_key": "93355",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "primary_emotion": "anger",
+      "confidence": "high",
+      "reason": "The reviewer is clearly dissatisfied and frustrated that the personalized message was omitted, making the gift card impersonal and unacceptable."
+    }
+  },
+  {
+    "_eval_key": "87871",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "primary_emotion": "joy",
+      "confidence": "medium",
+      "reason": "The brief praise 'Nice Looking' and 'Good Envelope' conveys clear satisfaction, though the emotion is mild."
+    }
+  },
+  {
+    "_eval_key": "57335",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "primary_emotion": "anger",
+      "confidence": "medium",
+      "reason": "The reviewer acknowledges the card is useful but focuses on the unreimbursed dollar charge as a deceptive surcharge, making the overall stance critical and annoyed."
+    }
+  },
+  {
+    "_eval_key": "2874",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "primary_emotion": "joy",
+      "confidence": "high",
+      "reason": "The reviewer explicitly states 'Loved it!' and gives five stars, clearly expressing satisfaction and happiness."
+    }
+  },
+  {
+    "_eval_key": "110554",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "primary_emotion": "anger",
+      "confidence": "high",
+      "reason": "The reviewer is clearly upset and frustrated that a gift card was delivered to the wrong address, emphasizing the loss and inconvenience."
+    }
+  },
+  {
+    "_eval_key": "110750",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "primary_emotion": "anger",
+      "confidence": "high",
+      "reason": "The reviewer expresses clear frustration and dissatisfaction because the cards were unusable outside Amazon and the promised codes were never provided despite a phone call."
+    }
+  },
+  {
+    "_eval_key": "104872",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "primary_emotion": "anger",
+      "confidence": "high",
+      "reason": "Despite loving Panera, the reviewer is clearly frustrated and upset that the gift card failed, leaving her granddaughter to pay and wasting her $25."
+    }
+  },
+  {
+    "_eval_key": "145903",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "primary_emotion": "anger",
+      "confidence": "high",
+      "reason": "The reviewer reports a defective gift card that couldn't be used and vows never to buy gift cards again, clearly expressing frustration and dissatisfaction."
+    }
+  },
+  {
+    "_eval_key": "61348",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "primary_emotion": "sadness",
+      "confidence": "medium",
+      "reason": "The reviewer reports that the expected holiday message was not printed on the gift card, expressing disappointment in a factual, understated complaint."
+    }
+  },
+  {
+    "_eval_key": "61765",
+    "model_output": {
+      "sentiment": "NEUTRAL",
+      "primary_emotion": "trust",
+      "confidence": "low",
+      "reason": "The review is a brief factual statement about giving items to workers, with no clear positive or negative tone."
+    }
+  },
+  {
+    "_eval_key": "113069",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "primary_emotion": "joy",
+      "confidence": "low",
+      "reason": "The brief words 'Easy' and 'Convenience' convey a favorable, satisfied impression, though the extreme brevity limits certainty."
+    }
+  },
+  {
+    "_eval_key": "6263",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "primary_emotion": "joy",
+      "confidence": "high",
+      "reason": "The reviewer expresses clear delight with the word 'cute', indicating a positive and joyful reaction to the gift box."
+    }
+  },
+  {
+    "_eval_key": "128122",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "primary_emotion": "anger",
+      "confidence": "high",
+      "reason": "The reviewer is clearly frustrated and regretful that the product cannot be used online, stating they would not have bought it if they had known."
+    }
+  },
+  {
+    "_eval_key": "130367",
+    "model_output": {
+      "sentiment": "NEUTRAL",
+      "primary_emotion": "trust",
+      "confidence": "medium",
+      "reason": "The review balances positive points like fast shipping and realistic feel with negatives like smaller than expected and hard to handle, resulting in a factual, mixed assessment."
+    }
+  },
+  {
+    "_eval_key": "132231",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "primary_emotion": "joy",
+      "confidence": "medium",
+      "reason": "The reviewer expresses satisfaction at successfully reloading and getting balance quickly, with only a minor backward-looking complaint that doesn't override the positive outcome."
+    }
+  },
+  {
+    "_eval_key": "91257",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "primary_emotion": "sadness",
+      "confidence": "high",
+      "reason": "The reviewer explicitly expresses disappointment about the missing personalized note and names, and vows not to purchase again, making the overall tone clearly negative."
+    }
+  },
+  {
+    "_eval_key": "148003",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "primary_emotion": "anger",
+      "confidence": "high",
+      "reason": "The review praises easy reloading but strongly criticizes the impossibility of withdrawing funds, making the overall tone clearly negative and frustrated."
+    }
+  },
+  {
+    "_eval_key": "36565",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "primary_emotion": "anger",
+      "confidence": "high",
+      "reason": "The reviewer is clearly dissatisfied and embarrassed by receiving a damaged gift card, expressing disappointment with the product quality."
+    }
+  },
+  {
+    "_eval_key": "24310",
+    "model_output": {
+      "sentiment": "NEUTRAL",
+      "primary_emotion": "trust",
+      "confidence": "low",
+      "reason": "The review is extremely brief and neutral, with no clear positive or negative tone, so the best-fitting emotion is a mild, non-committal acceptance."
+    }
+  },
+  {
+    "_eval_key": "114058",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "primary_emotion": "joy",
+      "confidence": "high",
+      "reason": "The phrase 'perfect' clearly expresses strong satisfaction and delight."
+    }
+  },
+  {
+    "_eval_key": "98652",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "primary_emotion": "sadness",
+      "confidence": "high",
+      "reason": "The reviewer expresses clear disappointment and embarrassment about the damaged box, making the overall sentiment negative with sadness as the dominant emotion."
+    }
+  },
+  {
+    "_eval_key": "148152",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "primary_emotion": "anger",
+      "confidence": "high",
+      "reason": "The reviewer reports being scammed and losing money, clearly expressing dissatisfaction and frustration."
+    }
+  },
+  {
+    "_eval_key": "137057",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "primary_emotion": "joy",
+      "confidence": "high",
+      "reason": "The review expresses strong enthusiasm and satisfaction with Amazon, clearly positive in tone."
+    }
+  },
+  {
+    "_eval_key": "15416",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "primary_emotion": "joy",
+      "confidence": "high",
+      "reason": "The reviewer expresses satisfaction and relief that the product is now available, with the title 'Five Stars' reinforcing a clearly positive sentiment."
+    }
+  },
+  {
+    "_eval_key": "69855",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "primary_emotion": "anger",
+      "confidence": "high",
+      "reason": "The reviewer is clearly frustrated and upset that the gift cards arrived unactivated, causing public embarrassment and denial at checkout."
+    }
+  },
+  {
+    "_eval_key": "24753",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "primary_emotion": "joy",
+      "confidence": "high",
+      "reason": "The review explicitly praises the item as 'great,' expressing clear satisfaction and positive sentiment."
+    }
+  },
+  {
+    "_eval_key": "25335",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "primary_emotion": "anger",
+      "confidence": "medium",
+      "reason": "The reviewer reports the gift card was missing and only a refund is expected, indicating clear dissatisfaction with the purchase."
+    }
+  },
+  {
+    "_eval_key": "82547",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "primary_emotion": "joy",
+      "confidence": "high",
+      "reason": "The reviewer explicitly expresses strong satisfaction with the word 'Excellent!'."
+    }
+  },
+  {
+    "_eval_key": "133196",
+    "model_output": {
+      "sentiment": "NEUTRAL",
+      "primary_emotion": "trust",
+      "confidence": "high",
+      "reason": "The review is a matter-of-fact statement that there is little to review, expressing no strong positive or negative feeling."
+    }
+  },
+  {
+    "_eval_key": "42553",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "primary_emotion": "anger",
+      "confidence": "high",
+      "reason": "The review explicitly calls the product a 'clickbait scam', clearly expressing strong dissatisfaction and frustration."
+    }
+  },
+  {
+    "_eval_key": "121903",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "primary_emotion": "joy",
+      "confidence": "low",
+      "reason": "The word 'nice' is a brief but clearly favorable assessment, indicating satisfaction."
+    }
+  },
+  {
+    "_eval_key": "111647",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "primary_emotion": "anger",
+      "confidence": "high",
+      "reason": "The reviewer clearly expresses frustration and dissatisfaction that the product failed at multiple locations, vowing never again."
+    }
+  },
+  {
+    "_eval_key": "134956",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "primary_emotion": "sadness",
+      "confidence": "high",
+      "reason": "The reviewer explicitly expresses disappointment about unexpected programming costs and leaves the items unused, indicating clear dissatisfaction."
+    }
+  },
+  {
+    "_eval_key": "51207",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "primary_emotion": "anger",
+      "confidence": "high",
+      "reason": "The reviewer is upset about being misled into loading money onto a card without receiving the promised bonus, expressing frustration and distrust."
+    }
+  },
+  {
+    "_eval_key": "60684",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "primary_emotion": "joy",
+      "confidence": "high",
+      "reason": "The reviewer expresses clear satisfaction and approval, calling the card easy to get and a nice way to use a rebate."
+    }
+  },
+  {
+    "_eval_key": "33464",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "primary_emotion": "anger",
+      "confidence": "medium",
+      "reason": "The body outweighs the positive title, focusing on a missing $10 credit and inability to purchase gift cards, expressing clear frustration."
+    }
+  },
+  {
+    "_eval_key": "136466",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "primary_emotion": "anger",
+      "confidence": "medium",
+      "reason": "The reviewer is frustrated and seeking help because the gift cards were not labeled clearly, indicating dissatisfaction with the order."
+    }
+  },
+  {
+    "_eval_key": "64837",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "primary_emotion": "anger",
+      "confidence": "high",
+      "reason": "The reviewer calls the product a scam and expresses frustration with expletive-laden disbelief after receiving gift cards with zero value."
+    }
+  },
+  {
+    "_eval_key": "81231",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "primary_emotion": "anger",
+      "confidence": "medium",
+      "reason": "The reviewer warns others about receiving an unwanted design substitution and expresses clear dissatisfaction, despite acknowledging Amazon's refund."
+    }
+  },
+  {
+    "_eval_key": "138797",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "primary_emotion": "joy",
+      "confidence": "medium",
+      "reason": "The reviewer expresses satisfaction with a matching picture feature, indicating a positive and pleased tone."
+    }
+  },
+  {
+    "_eval_key": "39672",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "primary_emotion": "anger",
+      "confidence": "medium",
+      "reason": "The reviewer expresses clear frustration that the promotional discount was troublesome and did not work as expected, making the overall tone negative."
+    }
+  },
+  {
+    "_eval_key": "121289",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "primary_emotion": "trust",
+      "confidence": "high",
+      "reason": "The reviewer expresses satisfaction with the convenience of having money readily available, indicating a positive sentiment and trust in the product."
+    }
+  },
+  {
+    "_eval_key": "86396",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "primary_emotion": "anger",
+      "confidence": "high",
+      "reason": "The reviewer warns others and vows not to buy online gift cards again after discovering the card was never activated, expressing clear frustration and dissatisfaction."
+    }
+  },
+  {
+    "_eval_key": "126366",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "primary_emotion": "joy",
+      "confidence": "high",
+      "reason": "The reviewer explicitly calls the gift 'Excellent' and expresses gratitude, clearly indicating satisfaction and happiness."
+    }
+  },
+  {
+    "_eval_key": "148000",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "primary_emotion": "anger",
+      "confidence": "high",
+      "reason": "The reviewer is clearly upset and frustrated that the gift card had no balance, causing embarrassment and leading to a strong warning against purchase."
+    }
+  },
+  {
+    "_eval_key": "126687",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "primary_emotion": "anger",
+      "confidence": "high",
+      "reason": "The reviewer is furious about a hacked gift card and the hassle of recovering the money, explicitly warning others not to buy."
+    }
+  },
+  {
+    "_eval_key": "106500",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "primary_emotion": "sadness",
+      "confidence": "high",
+      "reason": "The reviewer is clearly disappointed that one of the two gift cards arrived damaged, ruining the intended cute Easter surprise for one child."
+    }
+  },
+  {
+    "_eval_key": "95228",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "primary_emotion": "anger",
+      "confidence": "high",
+      "reason": "The reviewer is clearly frustrated and dissatisfied because the gift card has a balance but cannot be read or processed, leaving them stuck waiting for a resolution."
+    }
+  },
+  {
+    "_eval_key": "55148",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "primary_emotion": "anger",
+      "confidence": "high",
+      "reason": "The reviewer clearly expresses frustration and dissatisfaction about not receiving the gift card and being unable to return the item."
+    }
+  },
+  {
+    "_eval_key": "136434",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "primary_emotion": "trust",
+      "confidence": "medium",
+      "reason": "The review reports no problems and says everything is OK, indicating mild satisfaction and confidence in the product."
+    }
+  },
+  {
+    "_eval_key": "108082",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "primary_emotion": "sadness",
+      "confidence": "medium",
+      "reason": "Although one gift card arrived fine, the damaged condition of the other and the explicit disappointment make the overall tone negative."
+    }
+  },
+  {
+    "_eval_key": "144607",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "primary_emotion": "anger",
+      "confidence": "high",
+      "reason": "The reviewer is furious that the card was drained before use, calling it a scam and warning others not to buy."
+    }
+  },
+  {
+    "_eval_key": "138028",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "primary_emotion": "anger",
+      "confidence": "medium",
+      "reason": "Despite expressing general love for Amazon, the review's main point is a complaint about not receiving the promised promotional code, making the overall tone negative."
+    }
+  },
+  {
+    "_eval_key": "112453",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "primary_emotion": "anger",
+      "confidence": "high",
+      "reason": "The reviewer is clearly frustrated and upset that the tin arrived mangled and looked used, forcing them to apologize to the recipient."
+    }
+  },
+  {
+    "_eval_key": "33148",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "primary_emotion": "joy",
+      "confidence": "high",
+      "reason": "The reviewer expresses clear delight that their grandchildren love the product, indicating strong positive sentiment and joy."
+    }
+  },
+  {
+    "_eval_key": "83867",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "primary_emotion": "joy",
+      "confidence": "low",
+      "reason": "The brief phrase 'Cute package' expresses a favorable, pleased reaction, though the review is too short for strong certainty."
+    }
+  },
+  {
+    "_eval_key": "85832",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "primary_emotion": "joy",
+      "confidence": "high",
+      "reason": "The reviewer affectionately compares Amazon to a handy bank account and laughs about setting spending limits, clearly expressing enjoyment and satisfaction."
+    }
+  },
+  {
+    "_eval_key": "63322",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "primary_emotion": "anger",
+      "confidence": "medium",
+      "reason": "The reviewer reports that the gift cards were not received despite tracking, indicating frustration and dissatisfaction with the delivery."
+    }
+  },
+  {
+    "_eval_key": "147866",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "primary_emotion": "anger",
+      "confidence": "high",
+      "reason": "The reviewer is frustrated and angry that the gift card was rejected for a student plan, and explicitly warns others not to buy it."
+    }
+  },
+  {
+    "_eval_key": "8935",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "primary_emotion": "anger",
+      "confidence": "high",
+      "reason": "The reviewer is clearly upset and sarcastically thanks the company for giving a gift card that didn't work, causing embarrassment."
+    }
+  },
+  {
+    "_eval_key": "75459",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "primary_emotion": "anger",
+      "confidence": "high",
+      "reason": "The reviewer is clearly frustrated and angry that their reloaded gift card shows a zero balance despite transferring $100."
+    }
+  },
+  {
+    "_eval_key": "133832",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "primary_emotion": "anger",
+      "confidence": "high",
+      "reason": "The reviewer feels deceived and frustrated by a misleading offer that wasted their time, despite the eventual credit resolution."
+    }
+  },
+  {
+    "_eval_key": "98577",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "primary_emotion": "sadness",
+      "confidence": "medium",
+      "reason": "The reviewer likes the tin's appearance but is disappointed by the dent, making the defect the dominant concern."
+    }
+  },
+  {
+    "_eval_key": "151303",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "primary_emotion": "joy",
+      "confidence": "high",
+      "reason": "The reviewer explicitly states liking the product and finds it easy to use, expressing clear satisfaction."
+    }
+  },
+  {
+    "_eval_key": "136942",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "primary_emotion": "joy",
+      "confidence": "high",
+      "reason": "The reviewer expresses clear satisfaction and approval, calling it a perfect gift and saying it's always a good choice."
+    }
+  },
+  {
+    "_eval_key": "14334",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "primary_emotion": "trust",
+      "confidence": "medium",
+      "reason": "The reviewer states the product serves its purpose, indicating mild satisfaction and confidence in its functionality."
+    }
+  },
+  {
+    "_eval_key": "123150",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "primary_emotion": "anger",
+      "confidence": "high",
+      "reason": "The reviewer warns others about the card's non-refundable restriction, expressing clear frustration and dissatisfaction."
+    }
+  },
+  {
+    "_eval_key": "77784",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "primary_emotion": "sadness",
+      "confidence": "high",
+      "reason": "The reviewer clearly expresses disappointment about being denied the promised $10, indicating a negative experience."
+    }
+  },
+  {
+    "_eval_key": "14011",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "primary_emotion": "joy",
+      "confidence": "medium",
+      "reason": "The reviewer clearly loves the cute gift card design and calls it 'super cute,' with only minor complaints about writing space and lack of a display stand."
+    }
+  },
+  {
+    "_eval_key": "45527",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "primary_emotion": "anger",
+      "confidence": "high",
+      "reason": "The reviewer expresses strong frustration and outrage over repeated payment failures, unhelpful customer service, and feeling betrayed by a once-trusted company."
+    }
+  },
+  {
+    "_eval_key": "86304",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "primary_emotion": "joy",
+      "confidence": "high",
+      "reason": "The reviewer is delighted with the gift card's special, attractive packaging and enthusiastically recommends it."
+    }
+  },
+  {
+    "_eval_key": "105305",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "primary_emotion": "anger",
+      "confidence": "high",
+      "reason": "The title and body both express clear dissatisfaction with the product's usefulness, indicating frustration."
+    }
+  },
+  {
+    "_eval_key": "100907",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "primary_emotion": "anger",
+      "confidence": "medium",
+      "reason": "The reviewer appreciates convenience but is clearly frustrated and annoyed by the repeated need to enter credit card info, making the complaint the dominant tone."
+    }
+  },
+  {
+    "_eval_key": "48743",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "primary_emotion": "joy",
+      "confidence": "high",
+      "reason": "The reviewer successfully got the bonus and found the card easy to gift, expressing clear satisfaction."
+    }
+  },
+  {
+    "_eval_key": "73247",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "primary_emotion": "surprise",
+      "confidence": "high",
+      "reason": "The reviewer expresses delighted surprise at the clever packaging, clearly favorable."
+    }
+  },
+  {
+    "_eval_key": "80014",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "primary_emotion": "anger",
+      "confidence": "high",
+      "reason": "The review explicitly states the product is hard to use, clearly expressing dissatisfaction and frustration."
+    }
+  },
+  {
+    "_eval_key": "73103",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "primary_emotion": "trust",
+      "confidence": "medium",
+      "reason": "The review confirms the product works as described, expressing satisfaction in a matter-of-fact way, with trust as the dominant feeling."
+    }
+  },
+  {
+    "_eval_key": "133028",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "primary_emotion": "joy",
+      "confidence": "high",
+      "reason": "The title 'Five Stars' and body 'muy bueno' ('very good') clearly express satisfaction and approval."
+    }
+  },
+  {
+    "_eval_key": "126133",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "primary_emotion": "anger",
+      "confidence": "high",
+      "reason": "The reviewer is frustrated and annoyed that the gift card cannot be used for Kindle magazines and feels the limitation should have been disclosed."
+    }
+  },
+  {
+    "_eval_key": "144554",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "primary_emotion": "anger",
+      "confidence": "high",
+      "reason": "The reviewer expresses frustration and outrage over an inactive card and unhelpful customer service."
+    }
+  },
+  {
+    "_eval_key": "33494",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "primary_emotion": "anger",
+      "confidence": "medium",
+      "reason": "The reviewer questions the point of reloading because there are no perks, expressing frustration and dissatisfaction."
+    }
+  },
+  {
+    "_eval_key": "119312",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "primary_emotion": "trust",
+      "confidence": "high",
+      "reason": "The reviewer is satisfied that the item arrived quickly and matched its description, indicating a positive and trusting assessment."
+    }
+  },
+  {
+    "_eval_key": "59339",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "primary_emotion": "joy",
+      "confidence": "high",
+      "reason": "The reviewer expresses clear satisfaction with the packaging and ease of use, with an enthusiastic tone."
+    }
+  }
+]

@@ -1,0 +1,31 @@
+# Secrets / API keys — NEVER commit these
+.env
+*.env
+!*.env.example
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Raw data — large, reproduced by download script
+data/raw/
+*.jsonl.gz
+
+# NRC lexicon raw download (reproduced by scripts/nrc_emotions.py);
+# only the tidy data/nrc_emotion_en.tsv is committed
+data/NRC-Emotion-Lexicon/
+data/NRC-Emotion-Lexicon.zip
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+# macOS zip junk
+__MACOSX/

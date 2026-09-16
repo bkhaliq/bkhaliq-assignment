@@ -1,0 +1,60 @@
+{
+  "total": 100,
+  "correct": 96,
+  "incorrect": 4,
+  "accuracy": 0.96,
+  "labels": [
+    "POSITIVE",
+    "NEGATIVE"
+  ],
+  "confusion_matrix": [
+    [
+      81,
+      4
+    ],
+    [
+      0,
+      15
+    ]
+  ],
+  "confusion_matrix_labels": [
+    "POSITIVE",
+    "NEGATIVE"
+  ],
+  "actual_counts": {
+    "POSITIVE": 85,
+    "NEGATIVE": 15
+  },
+  "predicted_counts": {
+    "POSITIVE": 81,
+    "NEGATIVE": 19
+  },
+  "per_class": {
+    "POSITIVE": {
+      "actual": 85,
+      "predicted": 81,
+      "correct": 81,
+      "misclassified": 4,
+      "recall": 0.9529,
+      "precision": 1.0
+    },
+    "NEGATIVE": {
+      "actual": 15,
+      "predicted": 19,
+      "correct": 15,
+      "misclassified": 0,
+      "recall": 1.0,
+      "precision": 0.7895
+    }
+  },
+  "misclassification_direction": {
+    "POSITIVE": {
+      "NEGATIVE": 4
+    }
+  },
+  "seed": 6418,
+  "n_attempted": 100,
+  "n_scored": 100,
+  "n_errored": 0,
+  "note": "Ratings used ONLY for ground truth; LLM prompt contained title and text only. Sentiment: rating>=4 POSITIVE else NEGATIVE."
+}

@@ -1,0 +1,90 @@
+{
+  "n_compared": 114,
+  "n_total_scored": 150,
+  "agree": 19,
+  "disagree": 95,
+  "agreement_rate": 0.1667,
+  "llm_counts": {
+    "anger": 64,
+    "joy": 47,
+    "trust": 20,
+    "sadness": 14,
+    "disgust": 2,
+    "anticipation": 2,
+    "surprise": 1
+  },
+  "nrc_counts": {
+    "anger": 15,
+    "anticipation": 70,
+    "disgust": 0,
+    "fear": 0,
+    "joy": 15,
+    "sadness": 3,
+    "surprise": 2,
+    "trust": 9
+  },
+  "nrc_neutral_count": 36,
+  "disagreement_examples": [
+    {
+      "rating": 5,
+      "title": "Needed to get some thing small  surprise my neighbor for helping me",
+      "emotion_llm": "joy",
+      "emotion_nrc": "anticipation"
+    },
+    {
+      "rating": 3,
+      "title": "Credit for refilling was not awarded.",
+      "emotion_llm": "anger",
+      "emotion_nrc": "anticipation"
+    },
+    {
+      "rating": 3,
+      "title": "you have to pay a fee in order to buy a visa gift card",
+      "emotion_llm": "anger",
+      "emotion_nrc": "anticipation"
+    },
+    {
+      "rating": 1,
+      "title": "Cover of the card looks like it was on a dirty floor, stepped on, bent & old. It Looks disgraceful!",
+      "emotion_llm": "disgust",
+      "emotion_nrc": "anticipation"
+    },
+    {
+      "rating": 3,
+      "title": "Easy to use.",
+      "emotion_llm": "anger",
+      "emotion_nrc": "trust"
+    },
+    {
+      "rating": 5,
+      "title": "Five Stars",
+      "emotion_llm": "joy",
+      "emotion_nrc": "trust"
+    },
+    {
+      "rating": 1,
+      "title": "appearance",
+      "emotion_llm": "sadness",
+      "emotion_nrc": "anticipation"
+    },
+    {
+      "rating": 3,
+      "title": "It does what it does",
+      "emotion_llm": "trust",
+      "emotion_nrc": "anticipation"
+    },
+    {
+      "rating": 5,
+      "title": "Great",
+      "emotion_llm": "joy",
+      "emotion_nrc": "anticipation"
+    },
+    {
+      "rating": 1,
+      "title": "Lack of message meant confusion for recipient",
+      "emotion_llm": "anger",
+      "emotion_nrc": "anticipation"
+    }
+  ],
+  "tie_rule": "NRC primary emotion = highest summed score across the 8 categories; ties broken by fixed canonical order anger,anticipation,disgust,fear,joy,sadness,surprise,trust; zero-score -> 'neutral'."
+}

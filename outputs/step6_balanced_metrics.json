@@ -1,0 +1,113 @@
+{
+  "total": 150,
+  "correct": 103,
+  "incorrect": 47,
+  "accuracy": 0.6867,
+  "labels": [
+    "POSITIVE",
+    "NEUTRAL",
+    "NEGATIVE"
+  ],
+  "confusion_matrix": [
+    [
+      46,
+      4,
+      0
+    ],
+    [
+      12,
+      8,
+      30
+    ],
+    [
+      0,
+      1,
+      49
+    ]
+  ],
+  "confusion_matrix_labels": [
+    "POSITIVE",
+    "NEUTRAL",
+    "NEGATIVE"
+  ],
+  "actual_counts": {
+    "POSITIVE": 50,
+    "NEUTRAL": 50,
+    "NEGATIVE": 50
+  },
+  "predicted_counts": {
+    "POSITIVE": 58,
+    "NEUTRAL": 13,
+    "NEGATIVE": 79
+  },
+  "per_class": {
+    "POSITIVE": {
+      "actual": 50,
+      "predicted": 58,
+      "correct": 46,
+      "misclassified": 4,
+      "recall": 0.92,
+      "precision": 0.7931
+    },
+    "NEUTRAL": {
+      "actual": 50,
+      "predicted": 13,
+      "correct": 8,
+      "misclassified": 42,
+      "recall": 0.16,
+      "precision": 0.6154
+    },
+    "NEGATIVE": {
+      "actual": 50,
+      "predicted": 79,
+      "correct": 49,
+      "misclassified": 1,
+      "recall": 0.98,
+      "precision": 0.6203
+    }
+  },
+  "misclassification_direction": {
+    "POSITIVE": {
+      "NEUTRAL": 4
+    },
+    "NEUTRAL": {
+      "POSITIVE": 12,
+      "NEGATIVE": 30
+    },
+    "NEGATIVE": {
+      "NEUTRAL": 1
+    }
+  },
+  "seed": 6418,
+  "sample_size": 150,
+  "n_attempted": 150,
+  "n_scored": 150,
+  "n_errored": 0,
+  "emotion": {
+    "n_compared": 114,
+    "agree": 19,
+    "disagree": 95,
+    "agreement_rate": 0.1667,
+    "llm_counts": {
+      "anger": 64,
+      "joy": 47,
+      "trust": 20,
+      "sadness": 14,
+      "disgust": 2,
+      "anticipation": 2,
+      "surprise": 1
+    },
+    "nrc_counts": {
+      "anger": 15,
+      "anticipation": 70,
+      "disgust": 0,
+      "fear": 0,
+      "joy": 15,
+      "sadness": 3,
+      "surprise": 2,
+      "trust": 9
+    },
+    "nrc_neutral_count": 36
+  },
+  "3star_note": "Three-class rule: 4-5=POSITIVE, 3=NEUTRAL, 1-2=NEGATIVE. Balanced 50/50/50 sample from the full dataset, seed 6418."
+}

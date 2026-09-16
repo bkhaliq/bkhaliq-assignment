@@ -1,0 +1,802 @@
+[
+  {
+    "_eval_key": "130061",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "confidence": "high",
+      "reason": "The reviewer expected a $2 bonus for reloading $100 but never received it, expressing clear disappointment."
+    }
+  },
+  {
+    "_eval_key": "63404",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "confidence": "high",
+      "reason": "The review expresses satisfaction with the order arriving as expected and early, with an enthusiastic tone."
+    }
+  },
+  {
+    "_eval_key": "108655",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "confidence": "high",
+      "reason": "The title and body both express disappointment that the product did not match expectations, specifically lacking the expected gift cover."
+    }
+  },
+  {
+    "_eval_key": "124152",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "confidence": "medium",
+      "reason": "The title expresses that purchasing is easy with an Amazon gift card, and the body 'On line purchases' reinforces the positive context of online shopping."
+    }
+  },
+  {
+    "_eval_key": "151385",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "confidence": "high",
+      "reason": "The reviewer praises the speed of the transaction, calling it extremely fast and noting funds arrived in two minutes."
+    }
+  },
+  {
+    "_eval_key": "80850",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "confidence": "medium",
+      "reason": "The statement highlights a useful feature (banking up for later use) with no negative indicators, implying a favorable view."
+    }
+  },
+  {
+    "_eval_key": "115375",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "confidence": "high",
+      "reason": "The reviewer expected a $10 gift but received only $5, expressing disappointment with the offer."
+    }
+  },
+  {
+    "_eval_key": "88635",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "confidence": "high",
+      "reason": "The review clearly states the item was not the order and was not delivered, indicating a negative experience."
+    }
+  },
+  {
+    "_eval_key": "138559",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "confidence": "high",
+      "reason": "The reviewer reports that the gift recipient loved it and bought additional items, ending with 'Great idea!', clearly expressing positive sentiment."
+    }
+  },
+  {
+    "_eval_key": "39103",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "confidence": "high",
+      "reason": "The reviewer states the gift was well received and allows the niece to purchase needed baby items, indicating a positive sentiment."
+    }
+  },
+  {
+    "_eval_key": "37160",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "confidence": "high",
+      "reason": "The review describes an easy, fee-free transaction that resulted in a great Christmas gift, clearly expressing satisfaction."
+    }
+  },
+  {
+    "_eval_key": "121583",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "confidence": "low",
+      "reason": "The word 'Easy' is a positive descriptor, but the review is extremely short with no additional context."
+    }
+  },
+  {
+    "_eval_key": "128370",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "confidence": "high",
+      "reason": "The reviewer received the items too late for the intended occasion, expressing disappointment and uncertainty about what to do with them."
+    }
+  },
+  {
+    "_eval_key": "82084",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "confidence": "high",
+      "reason": "The reviewer expresses satisfaction with the product being easy and quick, and states they are very pleased."
+    }
+  },
+  {
+    "_eval_key": "9299",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "confidence": "high",
+      "reason": "The reviewer describes a successful purchase, timely delivery, and the recipient enjoying the gift, all clearly positive."
+    }
+  },
+  {
+    "_eval_key": "17175",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "confidence": "low",
+      "reason": "The review text is meaningless ('blah blah blah') and provides no clear sentiment, so I default to negative with low confidence."
+    }
+  },
+  {
+    "_eval_key": "109699",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "confidence": "medium",
+      "reason": "The title 'Five Stars' is clearly positive, and the body expresses a mild wish for more reloads without any negative criticism."
+    }
+  },
+  {
+    "_eval_key": "18209",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "confidence": "high",
+      "reason": "The title and body both express enthusiasm and satisfaction with the product and bonus."
+    }
+  },
+  {
+    "_eval_key": "12861",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "confidence": "high",
+      "reason": "The title 'Thank you' and the body praising quick arrival and accurate description clearly express satisfaction."
+    }
+  },
+  {
+    "_eval_key": "89100",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "confidence": "high",
+      "reason": "The reviewer notes the gift cards arrived quickly and redeemed without issue, which is a positive experience despite the neutral caveat about being standard."
+    }
+  },
+  {
+    "_eval_key": "18943",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "confidence": "high",
+      "reason": "The review complains that using gift cards is inconsistent and difficult, and calls for a better option, indicating dissatisfaction."
+    }
+  },
+  {
+    "_eval_key": "30089",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "confidence": "high",
+      "reason": "The reviewer explicitly calls the experience 'absolutely awful' and describes a gift card with no funds, causing embarrassment and loss of money."
+    }
+  },
+  {
+    "_eval_key": "103103",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "confidence": "high",
+      "reason": "The title and body both express enthusiasm for making shopping easier, clearly positive."
+    }
+  },
+  {
+    "_eval_key": "35673",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "confidence": "high",
+      "reason": "The reviewer praises the gift card's flexibility and the regular great deals from Omaha Steaks, expressing a wish to have one today."
+    }
+  },
+  {
+    "_eval_key": "26061",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "confidence": "high",
+      "reason": "The title 'Five Stars' and the body 'Thank you \ud83d\ude42' both clearly express satisfaction and gratitude."
+    }
+  },
+  {
+    "_eval_key": "15835",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "confidence": "high",
+      "reason": "The reviewer explicitly states they liked the experience and found it easy and fast."
+    }
+  },
+  {
+    "_eval_key": "51169",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "confidence": "high",
+      "reason": "The review explicitly states there were no issues, delivery was quick, and the product worked fine, indicating a positive experience."
+    }
+  },
+  {
+    "_eval_key": "21141",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "confidence": "low",
+      "reason": "The review states the gift cards were used, implying they worked, but the text is too brief to determine strong sentiment."
+    }
+  },
+  {
+    "_eval_key": "71242",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "confidence": "high",
+      "reason": "The title praises the ordering and delivery speed, and the body calls it a perfect gift, clearly expressing satisfaction."
+    }
+  },
+  {
+    "_eval_key": "134705",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "confidence": "medium",
+      "reason": "The title expresses strong approval and the body's minor packaging critique does not override the overall positive stance."
+    }
+  },
+  {
+    "_eval_key": "60596",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "confidence": "high",
+      "reason": "The reviewer describes the gift card as 'very cute' and the title is positive, indicating satisfaction with the product."
+    }
+  },
+  {
+    "_eval_key": "47545",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "confidence": "high",
+      "reason": "The review clearly states that only one of three paid items was delivered, indicating an incomplete order and a negative experience."
+    }
+  },
+  {
+    "_eval_key": "3044",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "confidence": "high",
+      "reason": "The title 'Five Stars' and body 'Very cute' both clearly express a positive opinion."
+    }
+  },
+  {
+    "_eval_key": "38790",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "confidence": "high",
+      "reason": "The reviewer calls the tin cute and states the relatives were pleased, clearly expressing satisfaction."
+    }
+  },
+  {
+    "_eval_key": "56360",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "confidence": "high",
+      "reason": "The reviewer expresses satisfaction that the cards had full funds and recommends online activation, indicating a positive experience."
+    }
+  },
+  {
+    "_eval_key": "145626",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "confidence": "high",
+      "reason": "The gift card was delivered with the wrong name and no message, causing confusion and requiring the sender to awkwardly ask if it was received."
+    }
+  },
+  {
+    "_eval_key": "48060",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "confidence": "high",
+      "reason": "The review repeatedly praises the product as a great last-minute gift and highlights fast shipping, indicating a clearly positive sentiment."
+    }
+  },
+  {
+    "_eval_key": "73426",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "confidence": "high",
+      "reason": "The reviewer is clearly frustrated that the specific gift card they ordered was replaced with a generic card they despise, expressing disappointment and discouraging others from ordering."
+    }
+  },
+  {
+    "_eval_key": "53245",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "confidence": "low",
+      "reason": "The review is very short and lacks explicit sentiment, but the repeated 'reload' suggests continued use of the gift card, implying satisfaction."
+    }
+  },
+  {
+    "_eval_key": "130346",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "confidence": "medium",
+      "reason": "The title is clearly positive ('Attractive and fun!') and the body fragment 'A birthday' does not contradict it, though it is incomplete."
+    }
+  },
+  {
+    "_eval_key": "128535",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "confidence": "medium",
+      "reason": "The reviewer happily describes using the card as a secret stash to buy things before their fianc\u00e9 finds out, with playful emojis indicating amusement rather than complaint."
+    }
+  },
+  {
+    "_eval_key": "43259",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "confidence": "high",
+      "reason": "The title and body both express satisfaction with the convenience of buying gifts without leaving home."
+    }
+  },
+  {
+    "_eval_key": "90997",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "confidence": "high",
+      "reason": "The body says recipients 'loved it' (typo 'lived it'), clearly expressing satisfaction, and the title praises ease and speed."
+    }
+  },
+  {
+    "_eval_key": "64516",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "confidence": "high",
+      "reason": "The title and body both explicitly describe the item as a great Christmas present, clearly expressing positive sentiment."
+    }
+  },
+  {
+    "_eval_key": "40659",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "confidence": "high",
+      "reason": "The reviewer calls the travel case a 'very cute' way to give a gift card, expressing clear approval."
+    }
+  },
+  {
+    "_eval_key": "126576",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "confidence": "medium",
+      "reason": "The review highlights ease of purchase and giving, indicating a positive experience."
+    }
+  },
+  {
+    "_eval_key": "95927",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "confidence": "high",
+      "reason": "The title and body both express positive sentiment, describing the item as desirable and a nice gift."
+    }
+  },
+  {
+    "_eval_key": "34830",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "confidence": "high",
+      "reason": "The reviewer expresses love for the design and appreciates its dual use as a card, clearly indicating a positive experience."
+    }
+  },
+  {
+    "_eval_key": "18565",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "confidence": "low",
+      "reason": "The single word 'God' is ambiguous, but in a product review it likely expresses strong approval (divine), though confidence is low due to lack of context."
+    }
+  },
+  {
+    "_eval_key": "16267",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "confidence": "high",
+      "reason": "The review explicitly states the product is good for long-term storage, which is a clear positive endorsement."
+    }
+  },
+  {
+    "_eval_key": "7368",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "confidence": "high",
+      "reason": "Both the title and body express clear positive preferences, with no conflicting or negative language."
+    }
+  },
+  {
+    "_eval_key": "9359",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "confidence": "high",
+      "reason": "The title 'Five Stars' and the body praising the food as 'always yummy' clearly express a positive overall sentiment."
+    }
+  },
+  {
+    "_eval_key": "140134",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "confidence": "high",
+      "reason": "The title 'Five Stars' and body 'Good' clearly express a positive evaluation."
+    }
+  },
+  {
+    "_eval_key": "67775",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "confidence": "high",
+      "reason": "The reviewer enthusiastically praises gift cards as a practical solution for picky recipients and expresses satisfaction with the choice."
+    }
+  },
+  {
+    "_eval_key": "89594",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "confidence": "high",
+      "reason": "The review complains about added obstacles and being overworked, indicating frustration with an unnecessary change."
+    }
+  },
+  {
+    "_eval_key": "34249",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "confidence": "high",
+      "reason": "The title explicitly says 'disliked it' and the body reports the card was already used, clearly a negative experience."
+    }
+  },
+  {
+    "_eval_key": "138450",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "confidence": "high",
+      "reason": "The review's main point is that the card arrived bent and unusable as a gift, making the overall experience negative despite noting that cards are usually great."
+    }
+  },
+  {
+    "_eval_key": "65216",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "confidence": "high",
+      "reason": "The reviewer explicitly states the gift card did not work)Skip"
+    }
+  },
+  {
+    "_eval_key": "85763",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "confidence": "high",
+      "reason": "The review explicitly describes the process as easy, indicating a positive experience."
+    }
+  },
+  {
+    "_eval_key": "134832",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "confidence": "high",
+      "reason": "The review explicitly gives five stars, indicating strong approval."
+    }
+  },
+  {
+    "_eval_key": "105072",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "confidence": "high",
+      "reason": "The review praises the product's presentation and convenience for Christmas shopping, expressing clear enthusiasm."
+    }
+  },
+  {
+    "_eval_key": "9615",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "confidence": "high",
+      "reason": "The review explicitly describes the gift card reload as easy and convenient, with a smiley indicating satisfaction."
+    }
+  },
+  {
+    "_eval_key": "118658",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "confidence": "high",
+      "reason": "The reviewer explicitly says 'Love it' and praises the convenience of a single payment, clearly expressing satisfaction."
+    }
+  },
+  {
+    "_eval_key": "86300",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "confidence": "high",
+      "reason": "The title 'Always welcome' and body 'No need to wrap' clearly express that the gift card is appreciated and convenient."
+    }
+  },
+  {
+    "_eval_key": "120415",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "confidence": "medium",
+      "reason": "The review states the product 'worked as expected,' indicating satisfaction with its performance, though without strong enthusiasm."
+    }
+  },
+  {
+    "_eval_key": "61984",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "confidence": "high",
+      "reason": "The reviewer says the gift card works and makes a great gift, expressing a positive overall assessment."
+    }
+  },
+  {
+    "_eval_key": "54315",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "confidence": "high",
+      "reason": "The title 'Perfect' and the body describing an easy way to get a free gift card both express clear approval."
+    }
+  },
+  {
+    "_eval_key": "26333",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "confidence": "high",
+      "reason": "The review explicitly praises the item as 'unbelievably AWESOME' and the title calls it 'Great', so the overall sentiment is clearly positive."
+    }
+  },
+  {
+    "_eval_key": "10078",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "confidence": "high",
+      "reason": "The title 'Five Stars' and the body 'great for a gift' both clearly express a positive sentiment."
+    }
+  },
+  {
+    "_eval_key": "121680",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "confidence": "high",
+      "reason": "The title and body both express clear praise, highlighting the product's suitability for employee recognition and its nice packaging."
+    }
+  },
+  {
+    "_eval_key": "80185",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "confidence": "high",
+      "reason": "The title explicitly praises the product as a great way to give a gift card, and the body indicates a positive gifting context."
+    }
+  },
+  {
+    "_eval_key": "26081",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "confidence": "high",
+      "reason": "The review explicitly expresses love for the deal, gift cards, and ease of use, with no negative or conflicting content."
+    }
+  },
+  {
+    "_eval_key": "6647",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "confidence": "high",
+      "reason": "The title 'Great value' and the body praising the packaging both express clear positive sentiment."
+    }
+  },
+  {
+    "_eval_key": "63388",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "confidence": "high",
+      "reason": "The phrase 'Easy peasy' clearly indicates the product was very easy to use, conveying a positive sentiment."
+    }
+  },
+  {
+    "_eval_key": "14789",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "confidence": "high",
+      "reason": "The title 'Five Stars' and body 'Geat' (likely 'Great') clearly express a positive review."
+    }
+  },
+  {
+    "_eval_key": "39287",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "confidence": "high",
+      "reason": "The title 'Five Stars' and the body praising it as a great gift idea both clearly express a positive sentiment."
+    }
+  },
+  {
+    "_eval_key": "146889",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "confidence": "high",
+      "reason": "The reviewer explicitly states it is a perfect experience, loves it, and finds it easy to apply, indicating clear satisfaction."
+    }
+  },
+  {
+    "_eval_key": "73372",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "confidence": "high",
+      "reason": "The title 'Five Stars' and the thumbs-up emoji both clearly express a positive rating."
+    }
+  },
+  {
+    "_eval_key": "116372",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "confidence": "high",
+      "reason": "The reviewer expresses clear delight and approval, calling the gift box 'so cute' and a 'great way' to package a gift card."
+    }
+  },
+  {
+    "_eval_key": "97140",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "confidence": "high",
+      "reason": "The title 'Five Stars' and body 'good' both clearly express a positive evaluation."
+    }
+  },
+  {
+    "_eval_key": "115536",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "confidence": "high",
+      "reason": "The title 'Five Stars' and body 'Nice Christmas gifts' both clearly express a positive sentiment."
+    }
+  },
+  {
+    "_eval_key": "109227",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "confidence": "low",
+      "reason": "The reviewer expresses enthusiasm about giving it as a wedding gift, but provides no actual evaluation of the product itself."
+    }
+  },
+  {
+    "_eval_key": "151202",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "confidence": "high",
+      "reason": "The review is uniformly enthusiastic, praising convenience, cash back rewards, security, and budgeting with no criticisms or negative remarks."
+    }
+  },
+  {
+    "_eval_key": "22660",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "confidence": "high",
+      "reason": "The title 'Five Stars' and the body 'Cash is cash' indicate the gift card is as good as cash, expressing satisfaction."
+    }
+  },
+  {
+    "_eval_key": "30507",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "confidence": "high",
+      "reason": "The title 'Five Stars' and the body praising the packaging clearly express a positive sentiment."
+    }
+  },
+  {
+    "_eval_key": "20242",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "confidence": "high",
+      "reason": "The review is enthusiastic and adoring, praising the gift cards as adorable and noting the grandkids love receiving them."
+    }
+  },
+  {
+    "_eval_key": "87467",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "confidence": "high",
+      "reason": "The reviewer's main point is frustration over being unable to use the promotional credit, which dominates the overall tone despite the gift card itself being fine."
+    }
+  },
+  {
+    "_eval_key": "102835",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "confidence": "high",
+      "reason": "The reviewer states the gift recipient loved it, clearly indicating a positive sentiment."
+    }
+  },
+  {
+    "_eval_key": "76355",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "confidence": "low",
+      "reason": "The reviewer explicitly says 'Nothing special' twice, indicating a lack of enthusiasm or disappointment, which is a mild negative sentiment."
+    }
+  },
+  {
+    "_eval_key": "63521",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "confidence": "high",
+      "reason": "The review enthusiastically praises the restaurant, sushi, and atmosphere, clearly expressing a positive overall sentiment."
+    }
+  },
+  {
+    "_eval_key": "52009",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "confidence": "high",
+      "reason": "The reviewer is frustrated about the delayed reload, lack of cancellation option, and explicitly calls it a big mistake they won't repeat."
+    }
+  },
+  {
+    "_eval_key": "14170",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "confidence": "high",
+      "reason": "The title 'Five Stars' and the body about getting $5 more back both express a positive outcome."
+    }
+  },
+  {
+    "_eval_key": "63548",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "confidence": "high",
+      "reason": "The review praises the delivery speed ('Delivered right on time') and the title 'Fast' reinforces a positive experience, with only a neutral caveat about holiday timing."
+    }
+  },
+  {
+    "_eval_key": "33030",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "confidence": "high",
+      "reason": "The review expresses joy about the son's gift card collection and the shared happiness of the family."
+    }
+  },
+  {
+    "_eval_key": "114679",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "confidence": "high",
+      "reason": "The reviewer enthusiastically praises the purchase as a great deal and used it for a special anniversary getaway, expressing clear satisfaction."
+    }
+  },
+  {
+    "_eval_key": "133286",
+    "model_output": {
+      "sentiment": "NEGATIVE",
+      "confidence": "medium",
+      "reason": "The reviewer complains that reloading the balance is too slow, indicating dissatisfaction despite the mild tone."
+    }
+  },
+  {
+    "_eval_key": "94639",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "confidence": "high",
+      "reason": "The review praises the product as an easy, foolproof gift, attributing any problems to user error rather than the product itself."
+    }
+  },
+  {
+    "_eval_key": "126880",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "confidence": "high",
+      "reason": "The reviewer praises the free gift card holder, notes the card matches, and appreciates the good size, all positive points."
+    }
+  },
+  {
+    "_eval_key": "76204",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "confidence": "high",
+      "reason": "The review expresses that the Starbucks gift is appreciated and brings holiday cheer, clearly positive."
+    }
+  },
+  {
+    "_eval_key": "136275",
+    "model_output": {
+      "sentiment": "POSITIVE",
+      "confidence": "high",
+      "reason": "The title 'Five Stars' and the body's enthusiastic mention of extra money clearly express a positive sentiment."
+    }
+  }
+]
